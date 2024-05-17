@@ -1,0 +1,7 @@
+/*
+Custom Css
+*/
+
+.carousel-item active{
+    background-color: rgb(54, 171, 72);
+}
